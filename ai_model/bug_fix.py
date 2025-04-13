@@ -1,7 +1,7 @@
 # bug_fix.py
 """
 This module handles bug fixing and code refactoring using AI models.
-Currently, it returns mock responses. You can later integrate Hugging Face transformers.
+Currentlly, it returns mock responses. You can later integrate Hugging Face transformers.
 """
 
 # Sample placeholder fix function
